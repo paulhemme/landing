@@ -1,0 +1,30 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: orange;
+  background-position: center;
+  background-size: cover;
+  justify-content: space-between;
+
+}
+
+.footer a {
+  font-size: 30px;
+  color:  red;
+}
+
+.footer p {
+  color: #6B6C6C;
+}
+
+.footer .fas {
+  color: #BF0F12;
+}
+
+.text {
+  font-size: 25px;
+  font-family: arial;
+  color: black;
+}
+
+

@@ -1,0 +1,15 @@
+.buttone_big {
+  background-color: #4CAF50; /* Green */
+  border: 1px solid #999999;
+  padding: 15px 25px;
+  border-radius: 50px;
+  font-weight: lighter;
+
+}
+
+.buttone_big:hover {
+  color: blue;
+}
+
+
+

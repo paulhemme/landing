@@ -1,0 +1,16 @@
+.banner {
+  background-image: url(https://pix10.agoda.net/geo/city/318/1_318_02.jpg?s=1920x822);
+  color: white;
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+
+}
+
+
+
+.banner p {
+  margin-bottom: 50px;
+}
